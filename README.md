@@ -1,4 +1,4 @@
-# Riyadh-Nurseries 🚼📚
+# Riyadh-Nurseries 
 
 ## Project Description 🏫
 Choosing the right nursery is a crucial decision that affects both your peace of mind and your child's future. To simplify this process, we created **Riyadh-Nurseries**, an interactive guide to nurseries in Riyadh. Our platform helps parents easily find the best nursery for their child, focusing on essential criteria such as safety, education, and care.
