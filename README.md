@@ -24,5 +24,10 @@ Choosing the right nursery is a crucial decision that affects both your peace of
 The Streamlit app URL is not yet available. Once deployed, users will be able to interact with the platform through a web-based interface.
 
 ---
+# Team Members
+- Mushal Alshagha
+- Zaid Alkhathlan
+- Rahaf Alotaibi
+- Emtnan Alomireni
+- Suliman alghanmi
 
-Feel free to update this README as your project evolves! 🚀
